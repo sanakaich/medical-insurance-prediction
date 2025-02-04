@@ -10,9 +10,13 @@ Matplotlib / Seaborn
 Scikit-learn
 
 Steps:
+
 Data Preprocessing: Clean and encode data.
+
 Exploratory Data Analysis: Visualize patterns.
+
 Model Building: Train models (e.g., Linear Regression).
+
 Evaluation: Assess performance with metrics.
 
 How to Run:
